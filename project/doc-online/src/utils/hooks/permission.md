@@ -6,8 +6,6 @@ outline: deep
 
 ## usePermission 权限hook
 
-创建一个防抖的响应式引用
-
 ### 基础用法
 
 <script lang="ts" setup>
